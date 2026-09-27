@@ -1,0 +1,12 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black background -->
+  <rect width="200" height="200" fill="#0a0a0b"/>
+  
+  <!-- Monogram "AMG" -->
+  <text x="100" y="130" font-family="'Big Shoulders Display', Arial, sans-serif" font-size="110" font-weight="900" text-anchor="middle" fill="#FF9F1C" letter-spacing="-2">
+    AMG
+  </text>
+  
+  <!-- Subtle border -->
+  <rect width="200" height="200" fill="none" stroke="#FF9F1C" stroke-width="2" opacity="0.3"/>
+</svg>
